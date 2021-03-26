@@ -17,7 +17,7 @@ steps:
 - task: DockerInstaller@0
   displayName: Docker Installer
   inputs:
-    dockerVersion: 19.03.15-ce
+    dockerVersion: 19.03.15
     releaseType: stable
 
 - task: Docker@2
