@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/DavidDracoules/Docker-Images/_apis/build/status/DavidDracoules.pipelines-javascript-docker%20(2)?branchName=master)](https://dev.azure.com/DavidDracoules/Docker-Images/_apis/build/status/DavidDracoules.pipelines-javascript-docker%20(1)?branchName=master)
-
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
